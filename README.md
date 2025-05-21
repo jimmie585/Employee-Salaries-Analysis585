@@ -1,6 +1,8 @@
 # Employee-Salaries-Analysis585
 Analyzed salary distribution across different jobs in a company using python . Used pandas and seaborn to visualize salary trends based on experience levels ,job ,roles and education levels.Identified salary disparities and provided data-driven insights for fair competition strategies
+
 Purpose:
+
 To analyze and visualize employee salary data for insights on pay distribution, job roles, experience levels, and departmental trends.
 
 Technologies Used:
